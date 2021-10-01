@@ -3,7 +3,7 @@
 <b>This is Automobile website like Big Boyz Toys giving view of premium cars</b>
 
 ![](overview1.png)
-![](overview2.png)
+![](overview2.jpeg)
 
 This website consists of no web templates and is purely coded in HTML 5 , CSS 3 , JAVASCRIPT , PHP , SQL . 
 
